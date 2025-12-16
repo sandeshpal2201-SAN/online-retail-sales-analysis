@@ -40,3 +40,10 @@ Monthly revenue analysis shows strong seasonality, with peak sales occurring tow
 - The United Kingdom is the top revenue-generating country.
 
 ## 📁 Project Structure
+Sales-Data-Analysis/
+├── analysis.ipynb
+├── README.md
+└── data/
+    └── online_retail.xlsx
+
+
